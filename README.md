@@ -15,7 +15,8 @@ No things to done. This is a private repository.
 Just another paragrath to play with git diff.
 With another line.
 And another one.
+And another one, without capitalized letter.
 
 ## Copyright
 
-Neurocoso for Jason Cannon's Git Training
+Neurocoso for Jason Taylor's Git Training
