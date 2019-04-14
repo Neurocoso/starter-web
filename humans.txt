@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alex Della Vecchia developer @neurocoso
 
 # THANKS
 
